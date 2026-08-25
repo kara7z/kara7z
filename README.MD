@@ -71,5 +71,4 @@
 > "Make it work, make it right, make it fast."  
 > — Kent Beck
 
-## ![](https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Statistics.gif?raw=true) Github Stats
 
