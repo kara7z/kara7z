@@ -75,4 +75,4 @@
 
 ### 🔥 Streak Stats
 
-[![Kara's Streak](https://streak-stats.demolab.com/?user=kara7z&theme=tokyonight&hide_borders=true)](https://github.com/kara7z?tab=repositories)
+[![Kara's Streak](https://streak-stats.demolab.com/?user=kara7z&theme=tokyonight&hide_borders=true&cache_bust=1)](https://github.com/kara7z?tab=repositories)
