@@ -45,7 +45,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
-### ![](https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Software_Tools.gif?raw=true) Software & Tools
+### Software & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)
