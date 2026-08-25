@@ -52,7 +52,7 @@
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=plastic&logo=neovim&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=plastic&logo=scrumalliance&logoColor=unknown)
 
-### ![](https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/IDEs.gif?raw=true) IDEs & Editors
+### IDEs & Editors
 
 ![LazyVim](https://img.shields.io/badge/LazyVim-000000?style=plastic&logo=neovim&logoColor=white)
 ![Zed](https://img.shields.io/badge/zed-%233B82F6.svg?style=plastic&logo=zed&logoColor=white)
